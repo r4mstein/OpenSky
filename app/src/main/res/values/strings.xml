@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">OpenSky</string>
+
+    <string name="toolbar_list_of_states_label">List of States</string>
+
+    <string name="error_load_states">Failed to load states</string>
+    <string name="error_update_states">Failed to update states</string>
+
+    <string name="error_no_internet">No internet</string>
+    <string name="error_no_internet_update_states">Can\'t update data, no internet</string>
+
+    <string name="btn_reload_label">Reload</string>
+    <string name="btn_open_map_label">See on map</string>
+
+    <string name="updating_states_label">States are updating</string>
+</resources>
